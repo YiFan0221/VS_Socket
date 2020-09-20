@@ -1,0 +1,24 @@
+[09:52:36 182] ======Create SockThd=======
+[09:52:36 195] [ReadConnInfo]::讀取資料
+[09:52:36 197] 127.0.0.1
+[09:52:36 199] 6222
+[09:52:36 205] [Fuc_Sock_Create]::SUCC
+[09:52:41 659] [TransferSocket]::按下接收按鈕
+[09:52:41 665] [Fuc_Sock_Bind]::SUCC
+[09:52:41 669] [Fuc_Sock_Listen]::SUCC
+[09:52:41 672] [Fuc_Sock_Accept]::等待連線中
+[09:52:42 505] [Fuc_Sock_Accept]::有人連線進來127.0.0.1
+[10:01:43 681] ======Create SockThd=======
+[10:01:43 691] [ReadConnInfo]::讀取資料
+[10:01:43 694] 127.0.0.1
+[10:01:43 696] 6222
+[10:01:43 702] [Fuc_Sock_Create]::SUCC
+[10:01:47 791] [TransferSocket]::按下連線按鈕
+[10:01:47 799] [Fuc_Sock_Connect]::連線成功
+[10:04:09 425] [TransferSocket]::按下連線按鈕
+[10:04:09 429] [Fuc_Sock_Connect]::連線失敗
+[10:04:16 115] [TransferSocket]::未選擇檔案
+[10:18:35 505] [TransferSocket]::按下連線按鈕
+[10:18:35 506] [Fuc_Sock_Connect]::連線失敗
+[10:18:42 681] [TransferSocket]::按下連線按鈕
+[10:18:42 682] [Fuc_Sock_Connect]::連線失敗

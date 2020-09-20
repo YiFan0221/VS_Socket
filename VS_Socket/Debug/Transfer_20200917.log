@@ -1,0 +1,84 @@
+[09:47:40 361] ======Create SockThd=======
+[09:48:00 133] [ReadConnInfo]::讀取資料
+[09:48:00 135] 127.0.0.1
+[09:48:00 138] 6222
+[09:48:04 150] [Fuc_Sock_Create]::SUCC
+[09:48:18 198] ======Create SockThd=======
+[09:48:18 208] [ReadConnInfo]::讀取資料
+[09:48:18 211] 127.0.0.1
+[09:48:18 214] 6222
+[09:48:20 717] [Fuc_Sock_Create]::SUCC
+[09:51:37 215] ======Create SockThd=======
+[09:51:37 226] [ReadConnInfo]::讀取資料
+[09:51:37 229] 127.0.0.1
+[09:51:37 231] 6222
+[09:51:44 70] [Fuc_Sock_Create]::SUCC
+[09:52:07 274] ======Create SockThd=======
+[09:52:16 437] [ReadConnInfo]::讀取資料
+[09:52:16 440] 127.0.0.1
+[09:52:16 443] 6222
+[09:52:16 454] [Fuc_Sock_Create]::SUCC
+[09:52:42 497] [TransferSocket]::按下連線按鈕
+[09:52:42 505] [Fuc_Sock_Connect]::連線成功
+[09:53:04 625] ======Create SockThd=======
+[09:53:07 921] [ReadConnInfo]::讀取資料
+[09:53:07 926] 127.0.0.1
+[09:53:07 929] 6222
+[09:53:07 941] [Fuc_Sock_Create]::SUCC
+[09:53:29 617] ======Create SockThd=======
+[09:53:29 626] [ReadConnInfo]::讀取資料
+[09:53:29 629] 127.0.0.1
+[09:53:29 631] 6222
+[09:53:29 663] [Fuc_Sock_Create]::SUCC
+[09:54:05 261] ======Create SockThd=======
+[09:54:05 271] [ReadConnInfo]::讀取資料
+[09:54:05 274] 127.0.0.1
+[09:54:05 277] 6222
+[09:54:05 286] [Fuc_Sock_Create]::SUCC
+[09:57:14 846] ======Create SockThd=======
+[09:57:14 858] [ReadConnInfo]::讀取資料
+[09:57:14 860] 127.0.0.1
+[09:57:14 863] 6222
+[09:57:14 874] [Fuc_Sock_Create]::SUCC
+[10:00:04 238] ======Create SockThd=======
+[10:00:04 247] [ReadConnInfo]::讀取資料
+[10:00:04 249] 127.0.0.1
+[10:00:04 252] 6222
+[10:00:04 267] [Fuc_Sock_Create]::SUCC
+[10:01:14 852] [TransferSocket]::未選擇檔案
+[10:01:46 919] [TransferSocket]::按下接收按鈕
+[10:01:46 926] [Fuc_Sock_Bind]::SUCC
+[10:01:46 930] [Fuc_Sock_Listen]::SUCC
+[10:01:46 933] [Fuc_Sock_Accept]::等待連線中
+[10:01:47 799] [Fuc_Sock_Accept]::有人連線進來127.0.0.1
+[10:02:07 743] [Fuc_Sock_Send]無法開啟檔案,請檔案是否存在
+[10:03:54 973] ======Create SockThd=======
+[10:03:54 984] [ReadConnInfo]::讀取資料
+[10:03:54 986] 127.0.0.1
+[10:03:54 988] 6222
+[10:03:55 8] [Fuc_Sock_Create]::SUCC
+[10:03:59 378] [TransferSocket]::選擇了C:\Users\gary_hsu\Desktop\clearconn.bat
+[10:04:08 610] [TransferSocket]::按下接收按鈕
+[10:04:08 620] [Fuc_Sock_Bind]::SUCC
+[10:04:08 624] [Fuc_Sock_Listen]::SUCC
+[10:04:08 627] [Fuc_Sock_Accept]::等待連線中
+[10:05:41 358] ======Create SockThd=======
+[10:05:41 369] [ReadConnInfo]::讀取資料
+[10:05:41 371] 127.0.0.1
+[10:05:41 374] 6222
+[10:05:41 389] [Fuc_Sock_Create]::SUCC
+[10:06:47 654] ======Create SockThd=======
+[10:06:47 664] [ReadConnInfo]::讀取資料
+[10:06:47 667] 127.0.0.1
+[10:06:47 669] 6222
+[10:06:52 198] [Fuc_Sock_Create]::SUCC
+[10:07:48 173] ======Create SockThd=======
+[10:07:48 183] [ReadConnInfo]::讀取資料
+[10:07:48 186] 127.0.0.1
+[10:07:48 189] 6222
+[10:08:20 608] [Fuc_Sock_Create]::SUCC
+[10:18:16 44] [TransferSocket]::選擇了C:\Users\gary_hsu\Desktop\connect.bat
+[10:18:34 571] [TransferSocket]::按下接收按鈕
+[10:18:34 576] [Fuc_Sock_Bind]::SUCC
+[10:18:34 578] [Fuc_Sock_Listen]::SUCC
+[10:18:34 579] [Fuc_Sock_Accept]::等待連線中

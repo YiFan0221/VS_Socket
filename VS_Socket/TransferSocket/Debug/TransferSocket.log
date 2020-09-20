@@ -1,0 +1,16 @@
+﻿  TransferSocket.cpp
+e:\gt\vs_socket\transfersocket\sockthd.h(109): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 請參閱 'sprintf' 的宣告
+e:\gt\vs_socket\transfersocket\sockthd.h(122): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: 請參閱 'localtime' 的宣告
+e:\gt\vs_socket\transfersocket\sockthd.h(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 請參閱 'sprintf' 的宣告
+e:\gt\vs_socket\transfersocket\sockthd.h(151): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 請參閱 'sprintf' 的宣告
+e:\gt\vs_socket\transfersocket\sockthd.h(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+e:\gt\vs_socket\transfersocket\transfersocket.cpp(301): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 請參閱 'sprintf' 的宣告
+e:\gt\vs_socket\transfersocket\transfersocket.cpp(366): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 請參閱 'sprintf' 的宣告
+  TransferSocket.vcxproj -> E:\gt\VS_Socket\Debug\TransferSocket.exe

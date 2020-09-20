@@ -1,0 +1,2 @@
+net use \\10.92.183.70 /user:administrator  lifeinfo5978
+exit
