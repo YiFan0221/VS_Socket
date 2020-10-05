@@ -1,0 +1,128 @@
+[09:47:42 844] ======Create SockThd=======
+[09:47:42 851] [ReadConnInfo]::讀取資料
+[09:47:42 853] 127.0.0.1
+[09:47:42 856] 6222
+[09:47:42 862] [Fuc_Sock_Create]::SUCC
+[09:47:47 100] [TransferSocket]::按下接收按鈕
+[09:47:47 107] [Fuc_Sock_Bind]::SUCC
+[09:47:47 111] [Fuc_Sock_Listen]::SUCC
+[09:47:47 114] [Fuc_Sock_Accept]::等待連線中
+[09:47:52 564] [Fuc_Sock_Accept]::有人連線進來127.0.0.1
+[12:08:40 237] ======Create SockThd=======
+[12:08:40 246] [ReadConnInfo]::讀取資料
+[12:08:40 249] IP
+[12:08:40 251] 127.0.0.1
+[12:08:40 255] Port
+[12:08:40 258] 6222
+[12:08:40 261] [TransferSocket]::讀取IP:127.0.0.1 Port6222
+[12:08:40 268] [Fuc_Sock_Create]::Init SUCC. IP:127.0.0.1 Port:6222
+[12:11:03 104] [TransferSocket]::按下連線按鈕
+[12:11:18 184] [TransferSocket]::按下連線按鈕
+[12:11:24 463] [TransferSocket]::按下初始化按鈕
+[12:11:24 467] [ReadConnInfo]::讀取資料
+[12:11:24 469] IP
+[12:11:24 471] 127.0.0.1
+[12:11:24 474] Port
+[12:11:24 476] 6222
+[12:11:27 375] [TransferSocket]::按下連線按鈕
+[12:11:30 875] ======Create SockThd=======
+[12:11:30 882] [ReadConnInfo]::讀取資料
+[12:11:30 884] IP
+[12:11:30 886] 127.0.0.1
+[12:11:30 889] Port
+[12:11:30 892] 6222
+[12:11:30 894] [TransferSocket]::讀取IP:127.0.0.1 Port6222
+[12:11:33 223] [TransferSocket]::按下連線按鈕
+[12:11:45 736] ======Create SockThd=======
+[12:11:45 742] [ReadConnInfo]::讀取資料
+[12:11:45 744] (target)server IP
+[12:11:45 746] 127.0.0.1
+[12:11:45 748] server port
+[12:11:45 750] 6222
+[12:11:45 753] [TransferSocket]::讀取IP:127.0.0.1 Port6222
+[12:11:51 239] [Fuc_Sock_Create]::Init SUCC. IP:127.0.0.1 Port:6222
+[12:12:00 175] [TransferSocket]::按下連線按鈕
+[12:12:51 510] ======Create SockThd=======
+[12:12:51 516] [ReadConnInfo]::讀取資料
+[12:12:51 519] (target)server IP
+[12:12:51 521] 127.0.0.1
+[12:12:51 524] server port
+[12:12:51 526] 6222
+[12:12:51 528] [TransferSocket]::讀取IP:127.0.0.1 Port6222
+[12:12:54 200] [TransferSocket]::按下連線按鈕
+[12:13:50 42] ======Create SockThd=======
+[12:13:50 47] [ReadConnInfo]::讀取資料
+[12:13:50 50] (target)server IP
+[12:13:50 52] 127.0.0.1
+[12:13:50 55] server port
+[12:13:50 57] 6223
+[12:13:50 59] [TransferSocket]::讀取IP:127.0.0.1 Port6223
+[12:14:15 210] ======Create SockThd=======
+[12:14:15 217] [ReadConnInfo]::讀取資料
+[12:14:15 219] (target)server IP
+[12:14:15 222] 127.0.0.1
+[12:14:15 224] server port
+[12:14:15 227] 6223
+[12:14:15 229] [TransferSocket]::讀取IP:127.0.0.1 Port6223
+[12:15:20 96] [TransferSocket]::按下連線按鈕
+[12:15:33 947] ======Create SockThd=======
+[12:15:33 954] [ReadConnInfo]::讀取資料
+[12:15:33 958] (target)server IP
+[12:15:33 960] 127.0.0.1
+[12:15:33 963] server port
+[12:15:33 966] 6223
+[12:15:33 969] [TransferSocket]::讀取IP:127.0.0.1 Port6223
+[12:15:33 976] [Fuc_Sock_Create]::Init SUCC. IP:127.0.0.1 Port:6223
+[12:15:40 783] [TransferSocket]::按下接收按鈕
+[12:15:40 791] [Fuc_Sock_Bind]::SUCC
+[12:15:40 795] [Fuc_Sock_Listen]::SUCC
+[12:15:40 798] [Fuc_Sock_Accept]::等待連線中
+[12:20:41 437] [TransferSocket]::按下初始化按鈕
+[12:20:41 441] [ReadConnInfo]::讀取資料
+[12:20:41 444] (target)server IP
+[12:20:41 446] 127.0.0.1
+[12:20:41 449] server port
+[12:20:41 452] 6223
+[12:20:51 172] [TransferSocket]::按下連線按鈕
+[12:20:54 612] [TransferSocket]::按下初始化按鈕
+[12:20:54 617] [ReadConnInfo]::讀取資料
+[12:20:54 618] (target)server IP
+[12:20:54 621] 127.0.0.1
+[12:20:54 624] server port
+[12:20:54 626] 6223
+[12:21:06 953] ======Create SockThd=======
+[12:21:06 961] [ReadConnInfo]::讀取資料
+[12:21:06 964] (target)server IP
+[12:21:06 967] 127.0.0.1
+[12:21:06 970] server port
+[12:21:06 974] 6222
+[12:21:06 976] [TransferSocket]::讀取IP:127.0.0.1 Port6222
+[12:21:06 984] [Fuc_Sock_Create]::Init SUCC. IP:127.0.0.1 Port:6222
+[12:21:12 949] [TransferSocket]::按下接收按鈕
+[12:21:12 957] [Fuc_Sock_Bind]::SUCC
+[12:21:12 960] [Fuc_Sock_Listen]::SUCC
+[12:21:12 964] [Fuc_Sock_Accept]::等待連線中
+[12:21:13 593] [Fuc_Sock_Accept]::有人連線進來127.0.0.1
+[12:23:04 886] ======Create SockThd=======
+[12:23:04 891] [ReadConnInfo]::讀取資料
+[12:23:04 894] (target)server IP
+[12:23:04 896] 127.0.0.1
+[12:23:04 899] server port
+[12:23:04 901] 6222
+[12:23:04 904] [TransferSocket]::讀取IP:127.0.0.1 Port6222
+[12:23:04 910] [Fuc_Sock_Create]::Init SUCC. IP:127.0.0.1 Port:6222
+[12:23:06 316] [TransferSocket]::按下接收按鈕
+[12:23:06 325] [Fuc_Sock_Bind]::SUCC
+[12:23:06 328] [Fuc_Sock_Listen]::SUCC
+[12:23:06 331] [Fuc_Sock_Accept]::等待連線中
+[12:23:07 424] [Fuc_Sock_Accept]::有人連線進來127.0.0.1
+[12:23:26 445] ======Create SockThd=======
+[12:23:26 451] [ReadConnInfo]::讀取資料
+[12:23:26 453] (target)server IP
+[12:23:26 455] 127.0.0.1
+[12:23:26 458] server port
+[12:23:26 460] 6222
+[12:23:26 463] [TransferSocket]::讀取IP:127.0.0.1 Port6222
+[12:23:26 469] [Fuc_Sock_Create]::Init SUCC. IP:127.0.0.1 Port:6222
+[12:23:43 787] [TransferSocket]::按下連線按鈕
+[12:23:43 797] [Fuc_Sock_Connect]::連線成功

@@ -5,7 +5,7 @@
 
 
 SockThd::SockThd(HWND aHwndOwner, void* aOwner)
-	: SThread(aOwner), hWnd_Parent(aHwndOwner), m_ResultLocker(_T("TransferSocketLocker")), hWnd_DispText(NULL), IDB_DISPLBLSTATUS(NULL), bConn(false), bRcv(false) //IBONPRINTER_ResultLocker
+	: SThread(aOwner), hWnd_Parent(aHwndOwner),  hWnd_DispText(NULL), IDB_DISPLBLSTATUS(NULL), bConn(false), bRcv(false) //IBONPRINTER_ResultLocker
 {
 }
 //---------------------------------------------------------------------------
@@ -195,7 +195,19 @@ int  SockThd::Fuc_Sock_Create()
 			return 2;
 		}
 	}
-	DISPANDLOGS("[Fuc_Sock_Create]::SUCC");
+	//DISPANDLOGS("[TransferSocket]::Åª¨úIP:" + Local_IP + " Port" + Local_Port);
+	struct	sockaddr_in *sock = (struct sockaddr_in*)&ServerAddr;
+	struct	in_addr in = sock->sin_addr;
+	int		port = ntohs(sock->sin_port);
+	char	ipstr[INET6_ADDRSTRLEN];
+	char	portstr[7];
+
+	inet_ntop(AF_INET, &in, ipstr, sizeof(ipstr));
+	sprintf(portstr, "%d", port);
+
+	string st_IP = ipstr;
+	string st_Port = portstr;	
+	DISPANDLOGS("[Fuc_Sock_Create]::Init SUCC. IP:"+ st_IP + " Port:"+ st_Port);
 	return 0;
 }
 int  SockThd::Fuc_Sock_Bind() {
