@@ -1,5 +1,5 @@
 # VS_Socket
-`簡單實作winsock傳送檔案程式`
+`Simple Demo winsock transfer file data.`
 
 ## 在LAN可互Ping到的不同電腦上,使用winsock傳送檔案
 ## ※需開啟兩隻程式
